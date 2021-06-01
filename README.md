@@ -30,5 +30,7 @@ With that said…there is still going to be a point where the proverbial rubber 
 # Day One Goals
 
 [_] Create CA
+
 [_] Create CSR
+
 [_] Sign CSRs
